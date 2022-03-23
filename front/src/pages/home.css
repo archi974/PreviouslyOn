@@ -1,0 +1,67 @@
+/* Banner Section */
+
+.body {
+    font-family: 'Roboto';
+    background-color: rgb(97, 76, 192);
+}
+
+.banner {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.banner img {
+    width: 100%;
+}
+
+/* Series Section */
+
+.test {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    color: white;
+    padding: 1rem;
+    margin: 0 auto;
+    border-bottom: 0.01rem rgb(146, 162, 234) solid;
+    border-radius: 0.5rem;
+}
+
+.pic {
+    width: 40%;
+    background-color: white;
+    padding: 1rem;
+    margin: auto 0;
+    border-radius: 5px;
+}
+
+.pic img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.content {
+    width: 30%;
+    margin: auto 0;
+    color: white;
+}
+
+.content h1 {
+    font-size: 2rem;
+    color: rgb(146, 162, 234);
+    border-bottom: 1px solid rgb(146, 162, 234);
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-bottom: 0.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    vertical-align: top;
+}
+
+button {
+    color: white;
+    background-color: unset;
+    border: none;
+}
