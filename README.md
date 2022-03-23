@@ -1,5 +1,13 @@
 Project Previously On
 
+- Lancer le site :
+
+    - avoir npm/nodemon
+    - faire un npm i dans le dossier back et front
+    - lancer le serveur dans le dossier back (npm start)
+    - lancer le client dans le dossier front (npm start)
+    - crée un compte sur le site rediriger
+
 - Etape effectuer :
 
     - redirection du front (localhost:3000) vers l'api grâce à une balise <a>, puis après inscription sur l'api, redirection vers le back grâce à (redirect_uri=localhost4000) précédement écrit dans le front.
