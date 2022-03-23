@@ -14,7 +14,8 @@ Project Previously On
 
     - Accès au série de l'API grâce à un fetch
 
-    - Récupération des données (titre/image/nombre de saison/nombre d'épisode/description/note sur 5/genre)
+    - Récupération des données de chaque série (titre/image/nombre de saison/nombre d'épisode/description/note sur 5/genre)
+    - Récupérer pour chaque épisodes de chaque série (l'image, le titre, la description, la durée)
 
 - Problématique rencontré :
 
